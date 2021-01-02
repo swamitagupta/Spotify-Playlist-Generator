@@ -3,8 +3,8 @@ import requests
 # SETTINGS
 
 endpoint_url = "https://api.spotify.com/v1/me/tracks"
-token = "BQDab9waJPvKQHd9-vMK14aRqSSmGkwwKrDxOjjfrJo_spcBvSzGyzz6xuwquwf9b1KGSNGZ5LANEKbA_zvTz8W2k3jrCdipfAMSH7ENw8z7mPA6Vq3AFtS-0MPXp3qnQN8cGsZLMrtM1W9WHLqHASWf_Cxxp57BnJb4tuuFOHOJhf6u7Lj3vMqzT1LBuBh9KY-ywn40uuScKtWFq3zGcRt3LkQhZwwVSHzAMEGD0737Wsd15Lwh_QA2TvPA3DjgUV1Kstfpo1i4vDkAe7WQZfckKFiW3cgftJI"
-user_id = "c9be82ms3mnt1ebamsarvgj1y"
+token = "ACCESS TOKEN"
+user_id = "USER ID"
 
 uris = []
 
